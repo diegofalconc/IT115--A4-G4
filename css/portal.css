@@ -115,12 +115,12 @@ ul.topnav li.icon {
 img.logo {
     display: inline-block;
     width: 10%;
-    padding: 10px 0px 0px 140px;
+    padding: 10px 0px 0px 120px;
 }
 
 h1 {
-    width: 70%;
     display: inline;
+    font-size: 2vw;
 }
 
 h1 a {
