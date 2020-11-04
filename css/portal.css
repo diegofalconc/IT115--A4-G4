@@ -114,6 +114,7 @@ ul.topnav li.icon {
 img.logo {
     display: inline-block;
     width: 10%;
+    padding-left: 120px;
 }
 
 h1 {
@@ -150,4 +151,17 @@ section {
 
 .newsblock h2 {
     text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.links {
+    color: #f5f5dc;
 }
